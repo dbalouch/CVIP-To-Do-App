@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <color android:name="my_dark_primary"
+        tools:ignore="ExtraText">#6200EA</color>
+    <color android:name="my_dark_primary_variant">#3700B3</color>
+    <color android:name="my_dark_secondary">#03DAC5</color>
+    <color android:name="my_dark_secondary_variant">#018786</color>
+    <color android:name="my_dark_status_bar">#3700B3</color>
+    <color android:name="my_dark_navigation_bar">#6200EA</color>
+</resources>
